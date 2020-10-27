@@ -48,6 +48,9 @@ Follow these guidelines for committing:
 
 We want you to have well over 200 commits by graduation, so commit early and often!
 
+## ScreenShot
+
+
 ## Submission on BCS
 
 You are required to submit the following:
