@@ -26,21 +26,15 @@ const workoutSchema = new Schema({
             },
             weight: {
                 type: Number,
-                required: "How much weight can you handle during this exercise?"
             },
             reps: {
                 type: Number,
-                required: "How many reps are you seeking in this exercise",
-                default: "8 , 10, 12, 15"
             },
             sets: {
                 type: String,
-                required: "How many sets are you looking to acheive?",
-                default: "3X12, 4X10, 5X5"
             },
             distance: {
                 type: Number,
-                require: "If so, how far did you travel?"
             },
         },
     ],
